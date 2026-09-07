@@ -1,4 +1,4 @@
-# Python-Projects  
+# Python-Projects   
 
 A collection of beginner-friendly Python projects built for practice, learning, and skill improvement.
 

@@ -1,5 +1,5 @@
  # Python-Projects      
- 
+  
 A collection of beginner-friendly Python projects built for practice, learning, and skill improvement.
 
 This repository contains a mix of **Python scripts** and **Jupyter notebooks** covering core programming concepts such as:
